@@ -44,4 +44,3 @@ interface ForageableDao {
     @Delete
     fun delete(forageable: Forageable)
 }
-
